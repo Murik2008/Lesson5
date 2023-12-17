@@ -1,0 +1,66 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0": []
+  },
+  "packageFolders": {
+    "/Users/ramilbagirov/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_9/Exercise2/Exercise2.csproj",
+      "projectName": "Exercise2",
+      "projectPath": "/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_9/Exercise2/Exercise2.csproj",
+      "packagesPath": "/Users/ramilbagirov/.nuget/packages/",
+      "outputPath": "/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_9/Exercise2/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/ramilbagirov/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
