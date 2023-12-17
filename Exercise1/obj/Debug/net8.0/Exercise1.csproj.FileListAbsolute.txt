@@ -1,0 +1,14 @@
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_9/Exercise1/bin/Debug/net8.0/Exercise1
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_9/Exercise1/bin/Debug/net8.0/Exercise1.deps.json
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_9/Exercise1/bin/Debug/net8.0/Exercise1.runtimeconfig.json
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_9/Exercise1/bin/Debug/net8.0/Exercise1.dll
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_9/Exercise1/bin/Debug/net8.0/Exercise1.pdb
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_9/Exercise1/obj/Debug/net8.0/Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_9/Exercise1/obj/Debug/net8.0/Exercise1.AssemblyInfoInputs.cache
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_9/Exercise1/obj/Debug/net8.0/Exercise1.AssemblyInfo.cs
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_9/Exercise1/obj/Debug/net8.0/Exercise1.csproj.CoreCompileInputs.cache
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_9/Exercise1/obj/Debug/net8.0/Exercise1.dll
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_9/Exercise1/obj/Debug/net8.0/refint/Exercise1.dll
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_9/Exercise1/obj/Debug/net8.0/Exercise1.pdb
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_9/Exercise1/obj/Debug/net8.0/Exercise1.genruntimeconfig.cache
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_9/Exercise1/obj/Debug/net8.0/ref/Exercise1.dll
